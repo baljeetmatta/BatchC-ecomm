@@ -1,0 +1,35 @@
+.grid-4{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    column-gap: 10px;
+    row-gap: 10px;
+}
+.flex-class{
+    display: flex;
+    justify-content: space-between;
+}
+.grid-4 > div
+{
+    border:1px solid gainsboro;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+.grid-4 img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.grid-4 div{
+    margin-top:5px;
+}
+.regular-price
+{
+    text-decoration: line-through;
+    font-size: 12px;
+    color:gray
+}
+.sale-price
+{
+    font-weight: 600;
+}

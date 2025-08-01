@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Headphones",
+    "categories": "Electronics",
+    "isFeatured": true,
+    "price": 1200,
+    "salePrice": 999,
+    "image": "https://picsum.photos/200?random=1",
+    "shortDescription": "High-quality wireless headphones with noise cancellation."
+  },
+  {
+    "id": 2,
+    "title": "Gaming Mouse",
+    "categories": "Computers",
+    "isFeatured": false,
+    "price": 800,
+    "salePrice": 649,
+    "image": "https://picsum.photos/200?random=2",
+    "shortDescription": "Precision gaming mouse with customizable DPI settings."
+  },
+  {
+    "id": 3,
+    "title": "Bluetooth Speaker",
+    "categories": "Audio",
+    "isFeatured": true,
+    "price": 1500,
+    "salePrice": 1350,
+    "image": "https://picsum.photos/200?random=3",
+    "shortDescription": "Portable Bluetooth speaker with powerful sound."
+  },
+  {
+    "id": 4,
+    "title": "Smart Watch",
+    "categories": "Wearables",
+    "isFeatured": false,
+    "price": 2500,
+    "salePrice": 2299,
+    "image": "https://picsum.photos/200?random=4",
+    "shortDescription": "Track your fitness and notifications on the go."
+  },
+  {
+    "id": 5,
+    "title": "Laptop Stand",
+    "categories": "Accessories",
+    "isFeatured": false,
+    "price": 999,
+    "salePrice": 799,
+    "image": "https://picsum.photos/200?random=5",
+    "shortDescription": "Ergonomic stand to improve laptop usability."
+  },
+  {
+    "id": 6,
+    "title": "USB-C Hub",
+    "categories": "Computers",
+    "isFeatured": true,
+    "price": 1299,
+    "salePrice": 1099,
+    "image": "https://picsum.photos/200?random=6",
+    "shortDescription": "Expand your device's connectivity with multiple ports."
+  },
+  {
+    "id": 7,
+    "title": "Noise Cancelling Earbuds",
+    "categories": "Audio",
+    "isFeatured": true,
+    "price": 3499,
+    "salePrice": 2999,
+    "image": "https://picsum.photos/200?random=7",
+    "shortDescription": "Experience immersive sound with active noise cancellation."
+  },
+  {
+    "id": 8,
+    "title": "Mechanical Keyboard",
+    "categories": "Computers",
+    "isFeatured": false,
+    "price": 2200,
+    "salePrice": 1999,
+    "image": "https://picsum.photos/200?random=8",
+    "shortDescription": "Tactile mechanical keyboard for productivity and gaming."
+  },
+  {
+    "id": 9,
+    "title": "Smartphone Tripod",
+    "categories": "Computers",
+    "isFeatured": false,
+    "price": 600,
+    "salePrice": 499,
+    "image": "https://picsum.photos/200?random=9",
+    "shortDescription": "Compact tripod perfect for mobile photography."
+  },
+  {
+    "id": 10,
+    "title": "LED Monitor 24\"",
+    "categories": "Electronics",
+    "isFeatured": true,
+    "price": 7800,
+    "salePrice": 7200,
+    "image": "https://picsum.photos/200?random=10",
+    "shortDescription": "Crisp display with full HD resolution."
+  },
+  {
+    "id": 11,
+    "title": "Wireless Charger",
+    "categories": "Computers",
+    "isFeatured": false,
+    "price": 1100,
+    "salePrice": 950,
+    "image": "https://picsum.photos/200?random=11",
+    "shortDescription": "Convenient wireless charging for your phone."
+  },
+  {
+    "id": 12,
+    "title": "Action Camera",
+    "categories": "Photography",
+    "isFeatured": true,
+    "price": 4999,
+    "salePrice": 4499,
+    "image": "https://picsum.photos/200?random=12",
+    "shortDescription": "Capture adventures with this waterproof camera."
+  },
+  {
+    "id": 13,
+    "title": "Fitness Tracker",
+    "categories": "Wearables",
+    "isFeatured": false,
+    "price": 1599,
+    "salePrice": 1399,
+    "image": "https://picsum.photos/200?random=13",
+    "shortDescription": "Monitor your health stats throughout the day."
+  },
+  {
+    "id": 14,
+    "title": "External Hard Drive 1TB",
+    "categories": "Storage",
+    "isFeatured": false,
+    "price": 3500,
+    "salePrice": 3199,
+    "image": "https://picsum.photos/200?random=14",
+    "shortDescription": "Back up your important files easily."
+  },
+  {
+    "id": 15,
+    "title": "Wireless Router",
+    "categories": "Networking",
+    "isFeatured": true,
+    "price": 2300,
+    "salePrice": 2099,
+    "image": "https://picsum.photos/200?random=15",
+    "shortDescription": "Boost your internet speed and coverage."
+  },
+  {
+    "id": 16,
+    "title": "Portable SSD 512GB",
+    "categories": "Storage",
+    "isFeatured": false,
+    "price": 4500,
+    "salePrice": 3999,
+    "image": "https://picsum.photos/200?random=16",
+    "shortDescription": "Fast and compact external solid-state drive."
+  },
+  {
+    "id": 17,
+    "title": "Webcam HD",
+    "categories": "Accessories",
+    "isFeatured": false,
+    "price": 1800,
+    "salePrice": 1600,
+    "image": "https://picsum.photos/200?random=17",
+    "shortDescription": "High-definition webcam for video calls."
+  },
+  {
+    "id": 18,
+    "title": "Bluetooth Keyboard",
+    "categories": "Computers",
+    "isFeatured": true,
+    "price": 1400,
+    "salePrice": 1299,
+    "image": "https://picsum.photos/200?random=18",
+    "shortDescription": "Lightweight keyboard with multi-device pairing."
+  },
+  {
+    "id": 19,
+    "title": "Phone Gimbal",
+    "categories": "Photography",
+    "isFeatured": true,
+    "price": 5200,
+    "salePrice": 4800,
+    "image": "https://picsum.photos/200?random=19",
+    "shortDescription": "Stabilize your videos with smooth motion."
+  },
+  {
+    "id": 20,
+    "title": "Smart Home Plug",
+    "categories": "Home",
+    "isFeatured": false,
+    "price": 999,
+    "salePrice": 799,
+    "image": "https://picsum.photos/200?random=20",
+    "shortDescription": "Control appliances remotely via your phone."
+  }
+]
